@@ -31,6 +31,13 @@
 
 .btn2{
     position: absolute;
-    top: 45%;
+    top: 14%;
+    left: 27%;
 
+}
+
+.items {
+    position: absolute;
+    top: 50%;
+    left: 40%;
 }
